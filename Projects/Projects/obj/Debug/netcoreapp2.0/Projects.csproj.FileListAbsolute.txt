@@ -1,0 +1,11 @@
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\bin\Debug\netcoreapp2.0\Projects.deps.json
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\bin\Debug\netcoreapp2.0\Projects.runtimeconfig.json
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\bin\Debug\netcoreapp2.0\Projects.runtimeconfig.dev.json
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\bin\Debug\netcoreapp2.0\Projects.dll
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\bin\Debug\netcoreapp2.0\Projects.pdb
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\obj\Debug\netcoreapp2.0\Projects.csprojAssemblyReference.cache
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\obj\Debug\netcoreapp2.0\Projects.csproj.CoreCompileInputs.cache
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\obj\Debug\netcoreapp2.0\Projects.AssemblyInfoInputs.cache
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\obj\Debug\netcoreapp2.0\Projects.AssemblyInfo.cs
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\obj\Debug\netcoreapp2.0\Projects.dll
+C:\Users\daniel.chorous\Source\Repos\Projects\Projects\Projects\obj\Debug\netcoreapp2.0\Projects.pdb
