@@ -14,12 +14,14 @@ namespace Projects
     {
         public static void Main(string[] args)
         {
-            BuildWebHost(args).Run();
+            var builder = new ConfigurationBuilder().SetBasePath($@"{Directory.GetCurrentDirectory()}\Configuration").AddJsonFile("Config.json").Build();
+
+            BuildWebHost(args, builder).Run();
         }
 
-        public static IWebHost BuildWebHost(string[] args) =>
+        public static IWebHost BuildWebHost(string[] args, IConfiguration configuration) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
+                .UseStartup<Startup>().UseConfiguration(configuration)
                 .Build();
     }
 }
